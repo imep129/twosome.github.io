@@ -82,7 +82,7 @@ legend {
     height:15px;
     background-color: rgb(182, 182, 182, 0.411);
     position: absolute;
-    top:613px;
+    top:620px;
     left:888px;
 }
 .join li:nth-child(2):before{
@@ -91,7 +91,7 @@ legend {
     height:15px;
     background-color: rgba(182, 182, 182, 0.411);
     position: absolute;
-    top:613px;
+    top:620px;
     left:997px;
 }
 .join a {
