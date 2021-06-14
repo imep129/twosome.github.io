@@ -38,6 +38,9 @@ header .header_menu li {
     line-height: 80px;
     font-size:18px;
 }
+.header_menu li a:hover{
+    color:white;
+}
 .header_menu li:last-child{
     margin-right:60px;
 }
@@ -81,6 +84,15 @@ header .header_menu img {
     float:left;
     margin-right:26px;
 }
+.cont01 .color:hover::before {
+    content:'';
+    background-color: rgba(0, 0, 0, 0.3);
+    width:280px;
+    height:280px;
+    display:block;
+    position: absolute;
+}
+
 .cont01 div:last-child{
     margin:0;
 }
