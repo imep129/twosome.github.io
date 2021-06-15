@@ -126,6 +126,14 @@ header .header_menu img {
 .cont02 div {
     float:left;
     margin-right:22px;
+   overflow: hidden;
+   
+}
+
+.cont02 div img:hover {
+    transform:scale(1.5, 1.5);
+    transition: .5s;
+
 }
 .cont02 div:last-child{
     margin:0;
